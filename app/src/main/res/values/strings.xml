@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TommySyamranata_1202153368_MODUL2</string>
+    <string name="welcome">ImageView</string>
+    <string name="pilihmenu">Pilih Menu: </string>
+    <string name="Dinein">Dine In </string>
+    <string name="Takeaway">Take Away </string>
+    <string name="Pesansekarang">Pesan Sekarang </string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_dinein">Dinein</string>
+    <string name="pilihpesanan">Pilih Pesanan</string>
+    <string name="nomormeja">nomor meja: </string>
+    <string name="detailcustomer">Detail Customer: </string>
+    <string name="identitaspemesan">Identitas Pemesan: </string>
+    <string name="name">name </string>
+    <string name="phone">phone </string>
+    <string name="alamat">alamat </string>
+    <string name="catatan">catatan </string>
+</resources>
